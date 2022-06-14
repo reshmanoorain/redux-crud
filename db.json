@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "Adam",
+      "address": "London",
+      "email": "adam@gmail.com",
+      "contact": 8965888,
+      "id": 1
+    },
+    {
+      "name": "Adam",
+      "address": "London",
+      "email": "adam@gmail.com",
+      "contact": 8965888,
+      "id": 2
+    },
+    {
+      "name": "sswdeff afshan",
+      "email": "dfgrgr",
+      "contact": "343255",
+      "address": "ferter",
+      "id": 3
+    }
+  ]
+}
